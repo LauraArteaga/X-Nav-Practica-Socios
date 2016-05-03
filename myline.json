@@ -1,0 +1,16 @@
+{"userMsgs": [{   "author":"Jess",
+                  "avatar": "jquery-ui/images/Jessie.png",
+                  "title":"Cumpleaños",
+                  "msg": "Feliz cumpleaños Paco! Pasa un gran dia!!",
+                  "date" : "25/04/2016"},
+                { "author":"Jess",
+                  "avatar": "jquery-ui/images/Jessie.png",
+                  "title":"Nochevieja",
+                  "msg": "Feliz año!",
+                  "date" : "01/01/2016"},
+                { "author":"Jess",
+                  "avatar": "jquery-ui/images/Jessie.png",
+                  "title":"Navidad",
+                  "msg": "Feliz Navidad a todos!!",
+                  "date" : "25/12/2015"}
+]}

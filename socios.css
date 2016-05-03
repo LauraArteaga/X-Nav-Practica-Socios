@@ -1,0 +1,62 @@
+.msg-title-button,
+.myMsg-title-button
+{
+  text-decoration: none;
+  padding: 0px 4px 0px 4px;
+  background-image: url("jquery-ui/images/ui-bg_diagonals-small_50_ff3853_40x40.png");
+  border-radius: 2px;
+  border: 2px solid #64B2BB;
+  cursor: pointer;
+}
+
+.upMsg-title-button,
+#update
+{
+  text-decoration: none;
+  padding: 0px 4px 0px 4px;
+  color: darkblue;
+  background-image: url("jquery-ui/images/ui-bg_diagonals-small_75_ccd232_40x40.png");
+  border-radius: 2px;
+  border: 2px solid #64B2BB;
+  cursor: pointer;
+}
+
+#update
+{
+  padding: 4px 4px 4px 4px;
+}
+
+#box
+{
+  margin: 10px 0 25px 0;
+  overflow: hidden;
+  padding: 20px;
+  background-color: #d8ecf7;
+  border: 3px solid #64B2BB;
+}
+
+.avatar
+{
+  width: 50px;
+  height: 50px;
+  border-radius: 2px;
+  border: 2px solid #64B2BB;
+}
+
+#tabs-1,
+#tabs-2
+{
+  border: 2px solid ghostwhite;
+  background-image: url("jquery-ui/images/ui-bg_dots-small_35_35414f_2x2.png");
+}
+
+#banner
+{
+  padding: 25px 50px 25px 50px;
+  border: 8px solid ghostwhite;
+  font-size: 80px;
+  text-align: center;
+  color: #33394A;
+  border-radius: 10px;
+  background-image: url("jquery-ui/images/ui-bg_diagonals-small_40_db4865_40x40.png");
+}
